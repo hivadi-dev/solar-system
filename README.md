@@ -1,6 +1,6 @@
 # solar-system
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/93066924-b25a-4510-bbb1-5f327c3907dd" />
+
 
 
 
